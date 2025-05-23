@@ -59,4 +59,4 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-N
 To discuss collaboration, funding, or prototyping:
 
 **Milo Vinson**  
-[Optionally add your email or LinkedIn here]
+[Add your email or LinkedIn if desired]
